@@ -11,6 +11,7 @@ Windows/Python tool for checking whether named stars or target-list entries are 
 - Save batch visibility results to CSV.
 - Append visible targets to a pipe-delimited SharpCap-compatible custom catalog.
 - Includes a Help button in the application with workflow instructions.
+![Star Visibility Planner screenshot](assets/star_visibility_screenshot.png)
 
 ## Run From Source
 
